@@ -9,3 +9,5 @@
 | *GitHub Actions* <br /> [FTP Smart File Copy](https://github.com/cinderblockgames/ftp-action) [:arrow_upper_right:](https://github.com/marketplace/actions/ftp-smart-file-copy) <br /> [Issue Certificates via Let's Encrypt DNS + cPanel](https://github.com/cinderblockgames/letsencrypt-dns-cpanel-action) [:arrow_upper_right:](https://github.com/marketplace/actions/issue-certificates-via-let-s-encrypt-dns-cpanel) <br /> [Revoke Certificate Issued by Let's Encrypt](https://github.com/cinderblockgames/letsencrypt-revoke-action) [:arrow_upper_right:](https://github.com/marketplace/actions/revoke-certificate-issued-by-let-s-encrypt)
 
 *\* indicates a project that is still in progress.*
+
+### [Discord Invite](https://discord.gg/wQrpkytBzs)
